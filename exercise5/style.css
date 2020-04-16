@@ -1,0 +1,12 @@
+* {box-sizing: border-box;}
+
+.interior {position: absolute;
+    width: 100px;
+    height: 100px;
+    border: white solid 5px;}
+
+.div1 {background: red;}
+.div2 {background: orange; left: 110px;}
+.div3 {background: yellow; left: 210px;}
+.div4 {background: blue; top: 60px; left: 60px;}
+.div5 {background: pink; top: 60px; left: 180px;}

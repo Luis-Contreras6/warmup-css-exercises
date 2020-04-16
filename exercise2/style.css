@@ -1,0 +1,13 @@
+* {box-sizing: border-box;}
+
+.interior {width: 100px;
+    height: 100px;
+    background: blue;
+    position: absolute;}
+
+.div1 {left: 120px;}
+.div2 {top: 120px;}
+.div3 {top: 120px; left: 120px;}
+.div5 {top: 60px; left: 60px;
+    background: red;
+    transform: rotate(45deg)}
